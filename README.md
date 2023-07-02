@@ -1,5 +1,7 @@
 # WebHidSayoDevice
 
+Original Branch from https://github.com/SoulDee/sayo-device-web-hid/tree/v1  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
